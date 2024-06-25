@@ -10,9 +10,7 @@ Ensure high accuracy and efficiency in real-world conditions, such as varying li
 
 # Tools and Technologies
 Programming Languages: Python
-Libraries: OpenCV, TensorFlow/Keras, NumPy, Matplotlib, Tesseract OCR
-Frameworks: TensorFlow, Keras
-Development Environment: Jupyter Notebook, Google Colab
+Libraries: OpenCV, PaddleOCR
 
 # Results
 Achieved an overall accuracy of 95% in detecting and recognizing license plates on a test dataset.
