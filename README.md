@@ -9,8 +9,10 @@ Recognize and extract the text from the detected number plates.
 Ensure high accuracy and efficiency in real-world conditions, such as varying lighting, weather, and angles.
 
 # Tools and Technologies
-Programming Languages: Python
-Libraries: OpenCV, PaddleOCR
+opencv-python
+ultralytics
+paddleocr
+shapely
 
 # Results
 Achieved an overall accuracy of 95% in detecting and recognizing license plates on a test dataset.
